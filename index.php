@@ -9,3 +9,11 @@
 phpinfo();
 echo 'hello';
 echo '1234';
+function test($p1, $p2)
+{
+    return $p1+$p2;
+}
+
+echo test(2,4);
+
+
