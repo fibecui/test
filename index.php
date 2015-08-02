@@ -14,6 +14,6 @@ function test($p1, $p2)
     return $p1+$p2;
 }
 
-echo test(2,4);
+echo test(2,5);
 
 
